@@ -1,4 +1,3 @@
-#!/bin/bash
 
 #
 # Script to create MySQL db + user
