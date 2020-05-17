@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Enter domain name : "
 read name
 
