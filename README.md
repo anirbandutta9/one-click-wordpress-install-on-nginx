@@ -19,7 +19,7 @@ One click automatic WordPress install with nginx on Ubuntu 16.04 / 18.04 / 20.04
 How to install this tool and run - (switch to root user before running this tool)
 
 ```sh
-apt-get install wget
+apt-get install wget -y
 wget https://files.anirbandutta.in/wordpressnginx.sh
 chmod +x wordpressnginx.sh  
 ./wordpressnginx.sh
