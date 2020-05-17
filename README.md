@@ -1,4 +1,4 @@
-# One-Click-Wordpress-Install-on-Nginx-
+# One-Click-Wordpress-Install-on-Nginx
 One click automatic WordPress install with nginx on Ubuntu 16.04 / 18.04 / 20.04 
 
 ### This tool will help anyone deploy WordPress on Ubuntu server easily and automatically. Users don't need to do any server side setup.  
