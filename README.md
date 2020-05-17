@@ -20,7 +20,7 @@ How to install this tool and run - (switch to root user before running this tool
 
 ```sh
 apt-get install git  
-git clone https://github.com/anirbandutta9/leap-year-calculate.git  
+git clone https://github.com/anirbandutta9/one-click-wordpress-install-on-nginx-.git  
 chmod +x install.sh  
 ./install.sh  
 ```
