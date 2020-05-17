@@ -17,9 +17,8 @@ apt-get install php php-mysql php-cli php-cgi php-gd php-mbstring php-xml php-xm
 
 mkdir -p /var/www/html/wordpress
 
-cd /etc/nginx/sites-available/
+cp wordpressnginx.conf /etc/nginx/sites-available/wordpressnginx.conf
 
-wget https://files.anirbandutta.in/wordpressnginx.conf
 
 ln -s /etc/nginx/sites-available/wordpressnginx.conf  /etc/nginx/sites-enabled/wordpressnginx.conf
 
