@@ -20,7 +20,8 @@ How to install this tool and run - (switch to root user before running this tool
 
 ```sh
 apt-get install git  
-git clone https://github.com/anirbandutta9/one-click-wordpress-install-on-nginx-.git  
+cd one-click-wordpress-install-on-nginx  
+git clone https://github.com/anirbandutta9/one-click-wordpress-install-on-nginx.git  
 chmod +x install.sh  
 ./install.sh  
 ```
