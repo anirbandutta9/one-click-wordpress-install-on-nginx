@@ -19,11 +19,10 @@ One click automatic WordPress install with nginx on Ubuntu 16.04 / 18.04 / 20.04
 How to install this tool and run - (switch to root user before running this tool)
 
 ```sh
-apt-get install git  
-cd one-click-wordpress-install-on-nginx  
-git clone https://github.com/anirbandutta9/one-click-wordpress-install-on-nginx.git  
-chmod +x install.sh  
-./install.sh  
+apt-get install wget
+wget https://files.anirbandutta.in/wordpressnginx.sh
+chmod +x wordpressnginx.sh  
+./wordpressnginx.sh
 ```
 
 You will be prompted to put root MySql server password in between. Just leave it blank and press enter to continue if you have not already setup mysql root password. Else just put your password.
