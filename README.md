@@ -29,6 +29,10 @@ You will be prompted to put root MySql server password in between. Just leave it
 
 Database credentials will be shown automatically after installation. 
 
+### Check full youtube tutorial on how to install and run ->  
+https://www.youtube.com/watch?v=uEnS4TQQUQ8  
+
+
 ## After installation 
 
 After the installation is complete just point your domain to server Public IP with DNS records and your domain will be live.
